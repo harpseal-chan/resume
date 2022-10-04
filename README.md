@@ -102,7 +102,25 @@ Bluetooth発信端末とユーザーの携帯するBluetooth端末との距離�
 |JavaScript| 半年 | ある程度使える（Webアプリ開発） |
 |Swift| 2ヶ月 | ある程度使える（iOSアプリ開発） |
 
-### 資格
+## 活動
+
+### Webアプリの開発
+
+#### 純喫茶Trip
+https://junkissa-trip.link/
+- 自分好みの純喫茶を見つけられるWebアプリです
+- お店の絞り込み検索やブックマーク登録、口コミを投稿することができます
+- ユーザーの認知負荷を軽減するために、１ページあたりの情報量を最小限にしてシンプルなデザインを意識しました
+
+Github: https://github.com/harpseal-chan/JunkissaTrip
+
+##### 使用技術
+- Ruby on Rails / HTML / CSS / JavaScript
+- Docker / AWS（EC2, RDS, S3, Route53ほか） / Docker / Capistrano
+
+### もくもく会
+
+## 資格
 
 |年月|資格|
 |--|--|
@@ -119,6 +137,6 @@ Bluetooth発信端末とユーザーの携帯するBluetooth端末との距離�
 
 - 純喫茶めぐり
   - 昭和レトロな純喫茶で美味しいものを食べているときが至福の時間です。
-  - [純喫茶の情報サイト](https://junkissa-trip.link/)を作成しました。
+  - 一番おすすめのお店は谷中の「喫茶ニカイ」
 - 断捨離
   - 視界の情報量が多いと疲れてしまうので、身の回りの物を減らすようにしています。

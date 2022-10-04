@@ -68,19 +68,23 @@ Bluetooth発信端末とユーザーの携帯するBluetooth端末との距離�
 
 - チーム規模：　2名
 - 使用言語： Java, Swift　
-- 使用ツール： Android Studio, XCode 
+- 使用ツール： Android Studio, XCode
 
 ##### 業務内容詳細
-- Android版アプリ開発では距離算出精度の向上のため歩数取得処理を追加
-- iPhoneの距離測定結果データが必要なため、同機能のiOS版アプリを開発
-  - ２ヶ月間でSwiftを習得し、納期までに仕様を満たすアプリを開発しました。
+- Android版アプリ開発の機能追加
+  - 距離算出精度の向上のため歩数取得機能を実装
+- iPhoneのサンプルデータが必要なため、受信したRSSIを画面に表示して取得結果をファイルに保存するiOS版デモアプリを開発
+  - Bluetooth接続、距離測定結果のデータをアプリ内部ストレージに保存する処理を実装
+  - SwiftUIでUI作成
 
 ##### 得たスキル
-- JavaによるAndroidアプリケーション開発
-  - Bluetooth接続の実装、パーミッション設定
+- JavaによるAndroidアプリ開発
+- Android Studioの操作
+  - Android Debug Bridge（adb）を使用したデバッグ
 - SwiftによるiOSアプリ開発
-  - Bluetooth接続の実装
 - SwiftUIを用いたiOSアプリのUI作成
+- XCodeの操作
+  - ipaファイルの生成、アプリ内部ストレージのデータ取り出し
 <br>
 
 ## スキル

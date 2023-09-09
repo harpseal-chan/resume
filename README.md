@@ -7,6 +7,7 @@
 |職業|組み込み系システムエンジニア|
 |Twitter|[@azarashi_0424](https://twitter.com/azarashi_0424)|
 |Qiita|[@HarpSeal](https://qiita.com/HarpSeal)|
+|Zenn|[@harpseal](https://zenn.dev/harpseal)|
 
 ## 学歴
 
@@ -18,7 +19,7 @@
 ### XX株式会社 (2020.04 - 現在)
 
 #### 1. 半導体メーカーのSSDメンテナンスツール開発（2022.4 - 現在）
-SSDのファームウエア更新、デバイス情報表示などのSSDメンテナンス機能を搭載したコマンドラインインタフェースツールを開発（Linux / Windows対応）
+SSDのファームウエア更新、デバイス情報表示などのSSDメンテナンス機能を搭載したCLIツールとMFCアプリケーションを開発
 
 - チーム規模：　５名
 - 使用言語：　C++

@@ -31,9 +31,11 @@
 - 担当フェーズ
   - 要件定義, 設計, 実装, テスト
 - 技術スタック
-  - フロントエンド：React, TypeScript, Apollo Client, React Hook Form
-  - バックエンド：Ruby on Rails (APIモード), GraphQL
-  - ライブラリ：FullCalendar, GraphQL Code Generator
+  - フロントエンド： React, TypeScript
+  - API： Apollo Client, GraphQL
+  - UI/ライブラリ： MUI, FullCalendar, date-fns
+  - スキーマ/バリデーション： React Hook Form, Zod, GraphQL Code Generator
+  - バックエンド： Ruby on Rails (APIモード)
   - テスト：RSpec
 - 使用ツール
   - インフラ・実行環境: Docker, AWS
@@ -41,7 +43,7 @@
   - プロジェクト管理: Backlog
   - デザイン: Figma
   - コミュニケーション: Slack, Notion
-  - その他: GraphiQL(APIデバッグ)
+  - その他: ESLint, GraphiQL(APIデバッグ)
 
 #### 業務内容詳細
 **カレンダー機能における複雑なロジック実装とUIカスタマイズ**  
